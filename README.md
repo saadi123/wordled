@@ -17,6 +17,8 @@ A Wordle based game made in Javascript
 - Fade in / fade out modal
 - Social media share buttons
 
+Check out complete rules and learn to play Wordle at: [Wordle Of The Day - How to Play Wordle Online?](https://wordleofthe.day/how-to-play-wordle-game/)
+
 The higher the level, the more words available and the higher the score you get for each word guessed. There's a score penalty for each time you guess wrong as well as if you give up on the word.
 
 To create your own list, simply edit the ```custom``` variable in **assets/js/words/x.js** (where **x** equals the word length), then choose the **custom** level in the game.
@@ -27,7 +29,7 @@ Wordled can be played in the browser, simply open the index.html file in any bro
 
 **Play online**
 
-Wordled can also be played online at [wordled.online](https://wordled.online)
+Wordled can also be played online at [Wordle Of The Day - Play Unlimited Wordle Online](https://wordleofthe.day/practice-wordle-unlimited/)
 
 **Languages used**
 
